@@ -163,6 +163,7 @@ const MemberBio = styled.p`
   color: var(--text-secondary);
   line-height: 1.6;
   font-family: 'Roboto', -apple-system, BlinkMacSystemFont, sans-serif;
+  white-space: pre-line;
 `;
 
 const ActivityItem = styled.div`

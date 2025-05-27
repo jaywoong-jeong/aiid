@@ -70,19 +70,33 @@ const en = {
       members: [
         {
           name: 'Jaewoong Jeong',
-          role: 'Director (KAIST AI Major)'
+          role: 'Director / AI Ethics Research',
+          bio: '• Master\'s in Artificial Intelligence from KAIST\n• Research in AI ethics and governance\n• Published papers on AI ethics in international journals'
         },
         {
-          name: 'Minho Lee',
-          role: 'Researcher (Prospective)'
+          name: 'Sunyoung Lee',
+          role: 'Policy Research Committee / AI Governance & Policy Research',
+          bio: '• Bachelor\'s in Law from Seoul National University\n• Internship at Korea Institute of Science & Technology Policy\n• Research on policy issues at the intersection of technology and law'
         },
         {
-          name: 'Jiwon Kang',
-          role: 'Policy Manager (Prospective)'
+          name: 'Jihoon Kim',
+          role: 'Technology Research Committee / AI Systems Analysis',
+          bio: '• Master\'s in Electrical and Electronic Engineering from Yonsei University\n• Research on machine learning algorithm performance analysis\n• Undergraduate research award recipient'
         },
         {
-          name: 'Sojeong Yoon',
-          role: 'Education Manager (Prospective)'
+          name: 'Minjun Park',
+          role: 'Secretary General / Strategic Planning',
+          bio: '• Bachelor\'s in Business and Technology Management from KAIST\n• Social enterprise internship experience\n• Interest in non-profit planning and operations'
+        },
+        {
+          name: 'Hyejin Jang',
+          role: 'Communications Committee / Public Awareness Programs',
+          bio: '• Bachelor\'s in Industrial Design from KAIST\n• Specialization in user experience and information design\n• Participation in public content creation projects'
+        },
+        {
+          name: 'Donghyun Choi',
+          role: 'Education Committee / Digital Literacy',
+          bio: '• Bachelor\'s in Computer Science from GIST\n• IT education experience as undergraduate supporter\n• Digital literacy program development'
         }
       ]
     },
