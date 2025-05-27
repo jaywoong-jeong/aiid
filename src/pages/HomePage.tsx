@@ -292,17 +292,7 @@ const HomePage: React.FC = () => {
       <HeroSection>
         <HeroContent>
           <HeroTitle>
-            {t('hero.title').split(' ').map((word, index) => {
-              // 한국어 제목: '민주주의를 위한 AI 연구소'
-              // 영어 제목: 'AI Institute for Democracy'
-              if (word === 'AI' || word === 'AI를' || word === 'AI의') {
-                return <span key={index} style={{ color: '#3a6ba5', fontWeight: 700 }}>{word} </span>;
-              } else if (word.includes('민주') || word.includes('Democracy') || word.includes('Democratic')) {
-                return <span key={index} style={{ color: '#d22630', fontWeight: 700 }}>{word} </span>;
-              } else {
-                return <span key={index} style={{ color: 'white' }}>{word} </span>;
-              }
-            })}
+            {t('hero.title')}
           </HeroTitle>
           <HeroSubtitle>{t('hero.subtitle')}</HeroSubtitle>
           <HeroButton to="/about">
