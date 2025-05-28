@@ -97,6 +97,11 @@ const en = {
           name: 'Donghyun Choi',
           role: 'Education Committee / Digital Literacy',
           bio: '• Bachelor\'s in Computer Science from GIST\n• IT education experience as undergraduate supporter\n• Digital literacy program development'
+        },
+        {
+          name: 'Jo Michelle',
+          role: 'Researcher / Communications and Network Technology',
+          bio: '• Bachelor\'s in Electrical and Electronic Engineering from KAIST\n• Research in communication systems and networks\n• Analysis of social impact of communication technologies'
         }
       ]
     },
