@@ -13,7 +13,7 @@ const en = {
   organizationShortName: 'AIID',
   hero: {
     title: 'AI Institute for Democracy',
-    subtitle: 'Launching May 2025: A civic organization that will research and work to ensure that artificial intelligence technology develops in a way that promotes democratic values and social equity.',
+    subtitle: 'Launching June 2025: A civic organization that will research and work to ensure that artificial intelligence technology develops in a way that promotes democratic values and social equity.',
     buttonText: 'Learn More'
   },
   home: {
@@ -40,7 +40,7 @@ const en = {
   },
   about: {
     title: 'About',
-    subtitle: 'AI Institute for Democracy, launching in May 2025, will research and address social issues related to artificial intelligence.',
+    subtitle: 'AI Institute for Democracy, launching in June 2025, will research and address social issues related to artificial intelligence.',
     mission: {
       title: 'Mission & Vision',
       paragraph1: 'AI Institute for Democracy will be a civic organization that researches and works to ensure that artificial intelligence technology develops in a way that promotes democratic values and social equity. We will critically reflect on the impact of technology on society and aim for a future where all citizens can equitably enjoy the benefits of AI technology.',
@@ -71,7 +71,7 @@ const en = {
         {
           name: 'Jaewoong Jeong',
           role: 'Director / AI Ethics Research',
-          bio: '• achelor\'s in Artificial Intelligence from KAIST\n• Research in AI ethics and governance\n• Published papers on AI ethics in international journals'
+          bio: '• Bachelor\'s in Artificial Intelligence from KAIST\n• Research in AI ethics and governance\n• Published papers on AI ethics in international journals'
         },
         {
           name: 'Sunyoung Lee',
@@ -117,7 +117,7 @@ const en = {
           description: "Announcement of foundation statement and establishment of partnerships"
         },
         {
-          year: 'May 2025',
+          year: 'June 2025',
           description: 'Official launch of the AI Institute for Democracy'
         },
         {
@@ -217,6 +217,10 @@ const en = {
     ]
   },
   news: {
+    pagination: {
+      next: 'Next',
+      previous: 'Previous'
+    },
     title: 'Upcoming News',
     subtitle: 'Learn about the launch plans and upcoming activities of the AI Institute for Democracy.',
     latestNews: {
@@ -225,8 +229,8 @@ const en = {
       items: [
         {
           title: 'AI Institute for Democracy Launch Planned',
-          date: 'Planned for May 2025',
-          excerpt: "The 'AI Institute for Democracy' led by Jaewoong Jeong (KAIST AI Major) is scheduled to officially launch in May 2025. The institute will research and work to ensure that artificial intelligence technology develops in a way that promotes democratic values..."
+          date: 'Planned for June 2025',
+          excerpt: "The 'AI Institute for Democracy' led by Jaewoong Jeong (KAIST AI Major) is scheduled to officially launch in June 2025. The institute will research and work to ensure that artificial intelligence technology develops in a way that promotes democratic values..."
         },
         {
           title: 'AI Literacy Education Program Development Plan',
@@ -251,7 +255,7 @@ const en = {
       items: [
         {
           title: "AI Institute for Democracy Launch Statement",
-          date: 'Planned for May 2025',
+          date: 'Planned for June 2025',
           excerpt: "Jaewoong Jeong, KAIST AI Professor, will officially announce the launch of the 'AI Institute for Democracy'. The institute will present its plans to research and work to ensure that artificial intelligence technology develops in a way that promotes democratic values and social equity..."
         },
         {
@@ -273,15 +277,15 @@ const en = {
       title: 'Contact Information',
       address: {
         label: 'Address',
-        value: '5th Floor, 123 Teheran-ro, Gangnam-gu, Seoul, Republic of Korea'
+        value: '291 Daehak-ro, Yuseong-gu, Daejeon'
       },
       email: {
         label: 'Email',
-        value: 'info@aidemocracy.org'
+        value: 'jaywoong.jeong@kaist.ac.kr'
       },
       phone: {
         label: 'Phone',
-        value: '+82-2-123-4567'
+        value: '010-8998-7360'
       },
       hours: {
         label: 'Operating Hours',
