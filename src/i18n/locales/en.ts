@@ -71,7 +71,7 @@ const en = {
         {
           name: 'Jaewoong Jeong',
           role: 'Director / AI Ethics Research',
-          bio: '• Master\'s in Artificial Intelligence from KAIST\n• Research in AI ethics and governance\n• Published papers on AI ethics in international journals'
+          bio: '• achelor\'s in Artificial Intelligence from KAIST\n• Research in AI ethics and governance\n• Published papers on AI ethics in international journals'
         },
         {
           name: 'Sunyoung Lee',
@@ -315,15 +315,15 @@ const en = {
       title: 'Contact Information',
       address: {
         label: 'Address',
-        value: '123 Teheran-ro, 4th Floor, Gangnam-gu, Seoul, Korea (Postal Code: 06234)'
+        value: '291 Daehak-ro, Yuseong-gu, Daejeon'
       },
       email: {
         label: 'Email',
-        value: 'contact@aiid.kr'
+        value: 'jaywoong.jeong@kaist.ac.kr'
       },
       phone: {
         label: 'Phone',
-        value: '02-123-4567'
+        value: '010-8998-7360'
       },
       hours: {
         label: 'Office Hours',

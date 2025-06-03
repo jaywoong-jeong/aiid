@@ -71,7 +71,7 @@ const ko = {
         {
           name: '정재웅',
           role: '대표 / AI 윤리 연구',
-          bio: '• KAIST 인공지능\n• AI 윤리와 거버넌스 분야 연구\n• 국제 학술지 AI 윤리 논문 게재'
+          bio: '• KAIST 수리과학 전공\n• AI 윤리와 거버넌스 분야 연구\n• 국제 학술지 AI 윤리 논문 게재'
         },
         {
           name: '이선영',
@@ -317,15 +317,15 @@ const ko = {
       title: '연락처 정보',
       address: {
         label: '주소',
-        value: '서울특별시 강남구 테헤란로 123, 4층 (우편번호: 06234)'
+        value: '대전광역시 유성구 대학로 291'
       },
       email: {
         label: '이메일',
-        value: 'contact@aiid.kr'
+        value: 'jaywoong.jeong@kaist.ac.kr'
       },
       phone: {
         label: '전화번호',
-        value: '02-123-4567'
+        value: '010-8998-7360'
       },
       hours: {
         label: '운영시간',
